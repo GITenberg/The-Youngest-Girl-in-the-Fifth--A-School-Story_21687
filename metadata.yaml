@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2544
     wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21687#The-Youngest-Girl-in-the-Fifth--A-School-Story
 gutenberg_bookshelf:
 - Children's Fiction
 - School Stories
