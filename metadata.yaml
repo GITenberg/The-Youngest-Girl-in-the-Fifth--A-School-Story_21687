@@ -1,0 +1,35 @@
+_repo: The-Youngest-Girl-in-the-Fifth--A-School-Story_21687
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Davis, Stanley
+    gutenberg_agent_id: '24861'
+    url: http://www.gutenberg.org/2009/agents/24861
+covers:
+- cover_type: archival
+  image_path: 21687-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brazil, Angela
+    birthdate: 1869
+    deathdate: 1947
+    gutenberg_agent_id: '2544'
+    url: http://www.gutenberg.org/2009/agents/2544
+    wikipedia: http://en.wikipedia.org/wiki/Angela_Brazil
+description: ''
+gutenberg_bookshelf:
+- Children's Fiction
+- School Stories
+gutenberg_issued: '2007-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21687'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Schools -- Fiction'
+- !lcc 'PZ'
+title: 'The Youngest Girl in the Fifth: A School Story'
+url: http://www.gutenberg.org/ebooks/21687
